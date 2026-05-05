@@ -1,4 +1,4 @@
-En este análisis se selección na base de estudiante y features que permiten comprender y prácticar modelos Supervisados: Clasificación y Regresión.
+En este análisis se seleccionó una base de estudiantes y features que permiten comprender y prácticar modelos Supervisados: Clasificación y Regresión.
 
 A continuación se detalla de manera general un resumen del dataset y los resultados comparativos de los modelos clasificación y regresión con la interpretabilidad de estos.
 En el detalle del notebook de googlecolab adjunto se especifica paso a paso lo realizado.
