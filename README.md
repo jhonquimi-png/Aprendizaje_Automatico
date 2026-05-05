@@ -1,7 +1,4 @@
-En este análisis se seleccionó una base de estudiantes y features que permiten comprender y prácticar modelos Supervisados: Clasificación y Regresión.
-
-A continuación se detalla de manera general un resumen del dataset y los resultados comparativos de los modelos clasificación y regresión con la interpretabilidad de estos.
-En el detalle del notebook de googlecolab adjunto se especifica paso a paso lo realizado.
+Para este análisis, se ha seleccionado una muestra de estudiantes y un conjunto de variables (features) orientados al estudio y aplicación de modelos de aprendizaje supervisado, específicamente en las áreas de clasificación y regresión. A continuación, se presenta una descripción general del conjunto de datos y un análisis comparativo de los modelos, incluyendo su respectiva interpretabilidad. El procedimiento técnico detallado se encuentra documentado paso a paso en el cuaderno de Google Colab adjunto.
 
 
 Análisis exploratorio de datos (EDA)
