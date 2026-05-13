@@ -38,6 +38,6 @@ Características:
 
 ```text
 data/           -> Dataset utilizado
-images/         -> Visualizaciones exportadas
+imageness/      -> Visualizaciones exportadas
 notebooks/      -> Notebook principal del análisis, para esta tarea es S3_Modelos_aprendizaje_no_supervisado.ipynb
 presentacion/   -> Presentación PowerPoint
