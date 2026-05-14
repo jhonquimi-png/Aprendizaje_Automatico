@@ -17,6 +17,7 @@ Características:
 - 500 registros
 - Variables académicas y de comportamiento estudiantil
 - Variables numéricas y categóricas
+  
 
 ---
 
