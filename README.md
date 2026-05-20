@@ -28,7 +28,7 @@ Características:
 - Modelado Supervisado (Regresión Lineal, Ridge, Decision Tree, Random Forest)
 - Modelado No Supervisado (K-Means, DBSCAN, PCA, t-SNE)
 - **Auditoría de Equidad (Fairlearn): Paridad Demográfica e Igualdad de Oportunidades**
-- **Explicabilidad del Modelo (XAI con SHAP): Impactos Globales y Locales**
+- **Explicabilidad del Modelo (XAI con SHAP y LIME): Impactos Globales y Locales**
 
 ---
 
